@@ -13,7 +13,7 @@ This project presents a **Self-Charging Hybrid Electric Bicycle** powered by a P
 
 ## ❗ Problem Statement
 * **Air Pollution:** Regular petrol vehicles (Internal Combustion Engines) release harmful smoke and pollute the environment.
-* **High Power Usage:** Normal electric bicycles need frequent charging from the main power supply, which consumes extra electricity units.
+* **High Power Usage:** Normal electric bicycles require frequent charging from the main power supply, which consumes extra electricity units.
 * **Our Solution:** A hybrid e-bicycle that generates its own power while moving to cut down both pollution and grid electricity usage.
 
 ---
@@ -58,8 +58,7 @@ The bicycle works using two simple loops:
 ---
 
 ## 📄 Presentation
-* **[View / Download Project Presentation (PPTX)](docs/Project_Presentation.pptx)**  
-  *(Make sure your uploaded file inside the `docs` folder is named `Project_Presentation.pptx`)*
+* **[View / Download Project Presentation (PPTX)](Project_Presentation.pptx)**
 
 ---
 
